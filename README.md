@@ -9,15 +9,18 @@ This is a visualization of getting an amorphous substance
 
 При низких температурах атомы твёрдого тела располагаются в узлах кристаллической решётки и совершают тепловые колебания.
 
-<img width="514" height="338" alt="image" src="https://github.com/user-attachments/assets/9faed1ee-10fe-41f9-891e-24037beb48ae" />
+<img width="512" height="338" alt="image" src="https://github.com/user-attachments/assets/0c1d5d55-f9c7-43f1-b20b-8fde1239361e" />
+
 
 С ростом температуры амплитуда колебаний увеличивается. При достижении температуры плавления (предположим, ~1000 K) колебания становятся настолько сильными, что разрушают связи между атомами — вещество переходит в жидкое состояние.
 
-<img width="514" height="368" alt="image" src="https://github.com/user-attachments/assets/f307bcd5-1946-4e31-b646-ea2a1d8559bd" />
+<img width="510" height="364" alt="image" src="https://github.com/user-attachments/assets/c341969b-9b41-45e6-83f2-6ebd82c44744" />
+
 
 При медленном охлаждении атомы возвращаются в узлы решётки, свое прежнее положение (кристаллизация). При быстром охлаждении (закалке) атомы не успевают упорядочиться и застывают хаотично — образуется аморфное тело. Аморфное тело предполагает отсутствие упорядоченности, дальнего порядка.
 
-<img width="518" height="356" alt="image" src="https://github.com/user-attachments/assets/8f2c731f-b695-4a52-afa2-478a24afcfc5" />
+<img width="514" height="374" alt="image" src="https://github.com/user-attachments/assets/5e438fe5-4156-4073-b273-019126f9c98e" />
+
 
 ## Управление
 
