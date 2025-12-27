@@ -1,8 +1,6 @@
 # amorphous_substance_visualization
 This is a visualization of getting an amorphous substance
 
-# Моделирование образования аморфного вещества
-
 Перед вами упрощенная интерактивная визуализация тепловых колебаний атомов, плавления и образования аморфного вещества.
 
 ## Описание явления
